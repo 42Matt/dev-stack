@@ -23,6 +23,7 @@ p {
   transform: translateX(-50%);
   width: 25ch;
   text-align: center;
+  text-shadow: 0.5px 0.5px rgb(134, 134, 134);
 }
 
 h1 {
@@ -32,6 +33,7 @@ h1 {
   letter-spacing: 0.1rem;
   margin-left: 1rem;
   position: absolute;
+  text-shadow: 0.5px 0.5px rgb(134, 134, 134);
 
   bottom: 7rem;
   left: 50%;
