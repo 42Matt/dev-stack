@@ -2,6 +2,7 @@
   "name": "dev-stack-3d",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://42matt.github.io/42matt-core-stack",
   "dependencies": {
     "@react-spring/three": "^9.2.4",
     "@react-three/drei": "^7.12.5",
@@ -19,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -38,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
