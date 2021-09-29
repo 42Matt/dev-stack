@@ -2,7 +2,7 @@
   "name": "dev-stack-3d",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://42matt.github.io/42matt-core-stack",
+  "homepage": "https://42matt.github.io/dev-stack",
   "dependencies": {
     "@react-spring/three": "^9.2.4",
     "@react-three/drei": "^7.12.5",
