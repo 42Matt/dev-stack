@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/dev-stack/static/css/main.0cdd1bde.chunk.css",
+    "main.js": "/dev-stack/static/js/main.98e9d5b3.chunk.js",
+    "main.js.map": "/dev-stack/static/js/main.98e9d5b3.chunk.js.map",
+    "runtime-main.js": "/dev-stack/static/js/runtime-main.aa762985.js",
+    "runtime-main.js.map": "/dev-stack/static/js/runtime-main.aa762985.js.map",
+    "static/js/2.919a4595.chunk.js": "/dev-stack/static/js/2.919a4595.chunk.js",
+    "static/js/2.919a4595.chunk.js.map": "/dev-stack/static/js/2.919a4595.chunk.js.map",
+    "static/js/3.8871566a.chunk.js": "/dev-stack/static/js/3.8871566a.chunk.js",
+    "static/js/3.8871566a.chunk.js.map": "/dev-stack/static/js/3.8871566a.chunk.js.map",
+    "index.html": "/dev-stack/index.html",
+    "static/css/main.0cdd1bde.chunk.css.map": "/dev-stack/static/css/main.0cdd1bde.chunk.css.map",
+    "static/js/2.919a4595.chunk.js.LICENSE.txt": "/dev-stack/static/js/2.919a4595.chunk.js.LICENSE.txt",
+    "static/media/PavingStones057_1K_AmbientOcclusion.724c1b2d.jpg": "/dev-stack/static/media/PavingStones057_1K_AmbientOcclusion.724c1b2d.jpg",
+    "static/media/PavingStones057_1K_Color.088fb06b.jpg": "/dev-stack/static/media/PavingStones057_1K_Color.088fb06b.jpg",
+    "static/media/PavingStones057_1K_Displacement.8fbf7c31.jpg": "/dev-stack/static/media/PavingStones057_1K_Displacement.8fbf7c31.jpg",
+    "static/media/PavingStones057_1K_NormalGL.06a77856.jpg": "/dev-stack/static/media/PavingStones057_1K_NormalGL.06a77856.jpg",
+    "static/media/PavingStones057_1K_Roughness.aa92e6fc.jpg": "/dev-stack/static/media/PavingStones057_1K_Roughness.aa92e6fc.jpg",
+    "static/media/emotionjs.7a2d299b.png": "/dev-stack/static/media/emotionjs.7a2d299b.png",
+    "static/media/react-small.70beaf80.png": "/dev-stack/static/media/react-small.70beaf80.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa762985.js",
+    "static/js/2.919a4595.chunk.js",
+    "static/css/main.0cdd1bde.chunk.css",
+    "static/js/main.98e9d5b3.chunk.js"
+  ]
+}
