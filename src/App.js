@@ -11,12 +11,13 @@ import scssImg from './img/sass.png';
 import styledImg from './img/styled.png';
 import ts from './img/typescript.jpeg';
 import { Controls } from './Three/Controls';
-import { Loader } from './Three/Loader';
+import { Loader } from './Three/Loader/Loader';
 import { Plane } from './Three/Plane';
 import { StaticBox } from './Three/StaticBox';
 
 function App() {
   const sm = 0.8;
+
   return (
     <>
       <Canvas
@@ -53,6 +54,7 @@ function App() {
           <StaticBox rotation={[0, 0.1, 0]} position={[-1.5, 0, -0.4]} img={jsImg} scale={1} />
         </Suspense>
       </Canvas>
+
       <h1>My core dev stack</h1>
       <p>Click left mouse button and move to rotate boxes.</p>
     </>
