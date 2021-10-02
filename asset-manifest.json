@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dev-stack/static/css/main.0cdd1bde.chunk.css",
-    "main.js": "/dev-stack/static/js/main.98e9d5b3.chunk.js",
-    "main.js.map": "/dev-stack/static/js/main.98e9d5b3.chunk.js.map",
-    "runtime-main.js": "/dev-stack/static/js/runtime-main.aa762985.js",
-    "runtime-main.js.map": "/dev-stack/static/js/runtime-main.aa762985.js.map",
-    "static/js/2.919a4595.chunk.js": "/dev-stack/static/js/2.919a4595.chunk.js",
-    "static/js/2.919a4595.chunk.js.map": "/dev-stack/static/js/2.919a4595.chunk.js.map",
-    "static/js/3.8871566a.chunk.js": "/dev-stack/static/js/3.8871566a.chunk.js",
-    "static/js/3.8871566a.chunk.js.map": "/dev-stack/static/js/3.8871566a.chunk.js.map",
+    "main.css": "/dev-stack/static/css/main.ca97cf4f.chunk.css",
+    "main.js": "/dev-stack/static/js/main.ce79cda6.chunk.js",
+    "main.js.map": "/dev-stack/static/js/main.ce79cda6.chunk.js.map",
+    "runtime-main.js": "/dev-stack/static/js/runtime-main.0c155fa3.js",
+    "runtime-main.js.map": "/dev-stack/static/js/runtime-main.0c155fa3.js.map",
+    "static/js/2.4f39401e.chunk.js": "/dev-stack/static/js/2.4f39401e.chunk.js",
+    "static/js/2.4f39401e.chunk.js.map": "/dev-stack/static/js/2.4f39401e.chunk.js.map",
+    "static/js/3.46ab8e1c.chunk.js": "/dev-stack/static/js/3.46ab8e1c.chunk.js",
+    "static/js/3.46ab8e1c.chunk.js.map": "/dev-stack/static/js/3.46ab8e1c.chunk.js.map",
     "index.html": "/dev-stack/index.html",
-    "static/css/main.0cdd1bde.chunk.css.map": "/dev-stack/static/css/main.0cdd1bde.chunk.css.map",
-    "static/js/2.919a4595.chunk.js.LICENSE.txt": "/dev-stack/static/js/2.919a4595.chunk.js.LICENSE.txt",
+    "static/css/main.ca97cf4f.chunk.css.map": "/dev-stack/static/css/main.ca97cf4f.chunk.css.map",
+    "static/js/2.4f39401e.chunk.js.LICENSE.txt": "/dev-stack/static/js/2.4f39401e.chunk.js.LICENSE.txt",
     "static/media/PavingStones057_1K_AmbientOcclusion.724c1b2d.jpg": "/dev-stack/static/media/PavingStones057_1K_AmbientOcclusion.724c1b2d.jpg",
     "static/media/PavingStones057_1K_Color.088fb06b.jpg": "/dev-stack/static/media/PavingStones057_1K_Color.088fb06b.jpg",
     "static/media/PavingStones057_1K_Displacement.8fbf7c31.jpg": "/dev-stack/static/media/PavingStones057_1K_Displacement.8fbf7c31.jpg",
@@ -21,9 +21,9 @@
     "static/media/react-small.70beaf80.png": "/dev-stack/static/media/react-small.70beaf80.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa762985.js",
-    "static/js/2.919a4595.chunk.js",
-    "static/css/main.0cdd1bde.chunk.css",
-    "static/js/main.98e9d5b3.chunk.js"
+    "static/js/runtime-main.0c155fa3.js",
+    "static/js/2.4f39401e.chunk.js",
+    "static/css/main.ca97cf4f.chunk.css",
+    "static/js/main.ce79cda6.chunk.js"
   ]
 }
