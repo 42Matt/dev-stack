@@ -54,9 +54,10 @@ function App() {
           <StaticBox rotation={[0, 0.1, 0]} position={[-1.5, 0, -0.4]} img={jsImg} scale={1} />
         </Suspense>
       </Canvas>
-
-      <h1>My core dev stack</h1>
-      <p>Click left mouse button and move to rotate boxes.</p>
+      <div className="txt">
+        <h1>My core dev stack</h1>
+        <p>Click left mouse button and move to rotate boxes.</p>
+      </div>
     </>
   );
 }

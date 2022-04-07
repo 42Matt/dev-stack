@@ -11,16 +11,19 @@ canvas {
   cursor: pointer;
 }
 
+.txt {
+  position: absolute;
+  top: 2rem;
+  left: 0;
+}
+
 p {
   font-weight: 300;
   font-size: 1.8rem;
   color: rgb(15, 15, 15);
   letter-spacing: 0.1rem;
   margin: 1rem;
-  position: absolute;
-  bottom: 2rem;
-  left: 50%;
-  transform: translateX(-50%);
+
   width: 25ch;
   text-align: center;
   text-shadow: 0.5px 0.5px rgb(134, 134, 134);
@@ -32,11 +35,8 @@ h1 {
   color: rgb(15, 15, 15);
   letter-spacing: 0.1rem;
   margin-left: 1rem;
-  position: absolute;
+
   text-shadow: 0.5px 0.5px rgb(134, 134, 134);
 
-  bottom: 7rem;
-  left: 50%;
-  transform: translateX(-50%);
   text-align: center;
 }
